@@ -5,5 +5,6 @@ For Delivery Plaform Menu:
 <br>
 
 
-![Beef Lo Mein](Beef Lo Mein.jpg)
+![Beef Lo Mein](https://raw.githubusercontent.com/webgence/No.1-Chinese-Photos/main/Beef Lo Mein.png)
+
 
