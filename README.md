@@ -4,6 +4,9 @@ For Delivery Plaform Menu
 
 
 <div align="center">
+
+  <img src="https://raw.githubusercontent.com/webgence/No.1-Chinese-Photos/main/Beef%20Lo%20Mein.jpg" alt="Beef Lo Mein">
+
   <img src="https://github.com/webgence/No.1-Chinese-Photos/blob/main/Beef%20Lo%20Mein.jpg" alt="Tech Showcase 1" width="300">
   <img src="https://github.com/webgence/No.1-Chinese-Photos/blob/main/Boneless%20Spare%20Ribs%20Combo.jpg" alt="Tech Showcase 2" width="300">
 
