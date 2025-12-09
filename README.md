@@ -24,13 +24,5 @@ For Delivery Plaform Menu
   <img src="https://github.com/webgence/No.1-Chinese-Photos/blob/main/Szechuan%20Shrimp.jpg" alt="Tech Showcase 2" width="300">
 
   <img src="https://github.com/webgence/No.1-Chinese-Photos/blob/main/Teriyaki%20Chicken.jpg" alt="Tech Showcase 1" width="300">
-  <img src="https://github.com/webgence/No.1-Chinese-Photos/blob/main/Vegetable%20Delight%20Combo.jpg" alt="Tech Showcase 2" width="300">
-
-  
-  
-
-  
-
-  
-  
+  <img src="https://github.com/webgence/No.1-Chinese-Photos/blob/main/Vegetable%20Delight%20Combo.jpg" alt="Tech Showcase 2" width="300"> 
 </div>
