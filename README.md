@@ -19,13 +19,16 @@ For Delivery Plaform Menu:
 <img width="1200" height="900" alt="Teriyaki Chicken" src="https://github.com/user-attachments/assets/ef050a8e-e0db-40cc-a733-e1dd2e3b600c" />
 <img width="1200" height="900" alt="Vegetable Delight Combo" src="https://github.com/user-attachments/assets/d9becf33-4577-4b62-a386-0cfdc3ce4449" />
 <img width="1200" height="900" alt="Beef-Lo-Mein" src="https://github.com/user-attachments/assets/f087a286-9b5e-4c8b-b4a4-a643f47f9142" />
-![Spicy Honey Chicken](https://github.com/user-attachments/assets/587838ab-993a-4821-a7bc-e48126a0a05f)
-![Pepper Streak Combo](https://github.com/user-attachments/assets/68e44c87-77b5-46d5-b260-1926fb1ce07a)
-![Moo Goo Gai Pan](https://github.com/user-attachments/assets/2a30369a-a7f3-4879-8d73-ed6965f00363)
-![Szechuan Chicken](https://github.com/user-attachments/assets/b08d4982-2040-4f06-a4b8-474fd0956686)
-![Beef w Mushroom](https://github.com/user-attachments/assets/bf7343e4-cdf0-43aa-9ae5-10f482994301)
-![Curry Chicken](https://github.com/user-attachments/assets/5b33c4fa-00b6-4ecf-aeb0-386bb316990c)
 
-![Singapore Mei Fun](https://github.com/user-attachments/assets/f5c4b320-8988-47b8-a128-9166f65a39ca)
-![House Special Lo Mein](https://github.com/user-attachments/assets/0d4f81d5-eb8e-48c2-8bef-349e4cb5657b)
-![Egg Foo Young](https://github.com/user-attachments/assets/6a6a9fc0-7644-4a66-b4ee-50b3cbf8ef03)
+
+<img width="1200" height="900" alt="Szechuan Chicken" src="https://github.com/user-attachments/assets/fc01009c-6d67-49e3-966c-839e6d8a6f89" />
+<img width="1200" height="900" alt="Spicy Honey Chicken" src="https://github.com/user-attachments/assets/b0d3e7a6-807b-43f3-8adf-0d5b63a78dc1" />
+<img width="1200" height="900" alt="Pepper Streak Combo" src="https://github.com/user-attachments/assets/58cbb17e-e888-4dfd-8dc7-3c29fccab0ba" />
+<img width="1200" height="900" alt="Moo Goo Gai Pan" src="https://github.com/user-attachments/assets/dd8a1a11-bfac-414c-be52-f1cb13accad2" />
+<img width="1200" height="900" alt="Curry Chicken" src="https://github.com/user-attachments/assets/003b64cb-61c2-4289-ab6d-b8b599a5e87a" />
+<img width="1200" height="900" alt="Beef w Mushroom" src="https://github.com/user-attachments/assets/3e541b8a-48dd-4d5b-b4e9-7daf2c52aeaf" />
+<img width="1200" height="900" alt="Egg Foo Young" src="https://github.com/user-attachments/assets/8d04e075-c0be-4b46-a4ed-cee763743528" />
+<img width="1200" height="900" alt="House Special Lo Mein" src="https://github.com/user-attachments/assets/33f9ce02-c7ce-4b88-be9b-9bf2899acd26" />
+
+
+
